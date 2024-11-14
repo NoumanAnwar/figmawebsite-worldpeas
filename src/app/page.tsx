@@ -1,8 +1,6 @@
-
+import React from "react";
 import Image from "next/image";
-
-
-import Pic from '../public/vege1.jpg'
+import Pic from '../public/vege1.jpg';
 
 export default function Home() {
 return (
