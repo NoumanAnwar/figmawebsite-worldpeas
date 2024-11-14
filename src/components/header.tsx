@@ -1,4 +1,5 @@
 import Link from "next/link"
+
 export default function Header () {
     return (
         <div>
@@ -10,7 +11,7 @@ export default function Header () {
                         <Link href='shop'>Shop</Link>
                         <Link href='newstand'>Newstand</Link>
                         <Link href='whoweare'>Who we are</Link>
-                        <Link href='myprofile'>My profile</Link>
+                        <Link href='contactus'>Contact Us</Link>
                        
                         <button className="bg-lime-900 py-2 px-2 rounded-lg  text-white hover:bg-green-700">Basket (3)</button>
                     </li>

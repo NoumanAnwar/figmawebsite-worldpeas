@@ -1,11 +1,14 @@
 
 
-
 export default function Shop() {
     return (
     <div className="bg-white">
    
     <p className="text-3xl flex mt-10"> Welcome to Our Shop</p> 
+    
+       
+    
+
     <p className="font-semibold mt-10">
 At world peas, we are passionate about bringing the finest quality Vegetables to your table. Established in 2005, our mission is to provide premium, sustainably sourced Vegetables that enhances your culinary experience.
 
@@ -18,9 +21,9 @@ Join us on a journey of flavor and tradition, and discover why world peas Int is
 Feel free to modify any part to better fit your company’s vision and values!
 
         </p>  
-    <div>
     
     </div>
-    </div>
+   
+    
     );
     }
