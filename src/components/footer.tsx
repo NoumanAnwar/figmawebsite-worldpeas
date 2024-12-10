@@ -2,6 +2,7 @@ import Link from "next/link"
 import React from "react";
 import { FaFacebookF, FaYoutube , FaTwitter, FaInstagram, FaTiktok } from "react-icons/fa";
 import { AiOutlineMail } from "react-icons/ai";
+
 export default function Footer () {
     return (
         <div>

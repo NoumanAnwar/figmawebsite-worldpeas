@@ -1,12 +1,14 @@
 import React from "react";
 
+
+
 export default function Shop() {
     return (
     <div className="bg-white">
    
     <p className="text-3xl flex mt-10"> Welcome to Our Shop</p> 
     
-       
+
     
 
     <p className="font-semibold mt-10">

@@ -8,7 +8,7 @@ return (
 <h1 className="text-6xl mt-10 pl-20 text-lime-900 absolute top-[-10px]">World Peas</h1>
 
 <div>
-<p className="mt-10 text-6xl text-center pl-40 pr-40">We're farmers, purveyors, and eaters of organically grown food.</p>
+<p className="mt-10 text-6xl text-center pl-40 pr-40">We are farmers, purveyors, and eaters of organically grown food.</p>
 
 <div className="mt-20 ">
 
@@ -32,7 +32,7 @@ Japanese eggplants. Asparagus. Artichokes—Jerusalem artichokes, too. Radishes.
       Squash (what some cultures call pumpkins). Sweet potatoes and potato-potatoes. Jackfruit. Monk fruit.
        Fruit of the Loom. Fruits of our labor (this website). Sorrel. Pineapple. Mango. Gooseberries. Blackberries.
         Tomatoes. Heirloom tomatoes. Beets. Chives. Corn. Endive. 
-        Escarole, which, we swear, we’re vendors of organic produce, 
+        Escarole, which, we swear, we are vendors of organic produce, 
         but if you asked us to describe what escaroles are...</p>
 
 </div>
